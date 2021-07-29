@@ -12,6 +12,8 @@ body {
 
 @media screen and (max-width: 800px) {
     body {
+        display: grid;
+        place-content: center;
         background-size: 300px;
     }
 }
