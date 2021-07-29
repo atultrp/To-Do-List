@@ -21,11 +21,10 @@ body {
 
 @media screen and (max-width: 800px) {
     body {
-        background-size: 300px;
+        background-size: auto;
     }
     .container {
         padding: 60px;
-        width: 480px;
     }
 }
 
