@@ -10,6 +10,7 @@ body {
     background-position: top -150px left -200px, bottom -150px right -200px;
 }
 
+
 /* ------------ container ------------ */
 
 .container {
@@ -18,16 +19,15 @@ body {
     margin: 0 auto;
 }
 
-
 @media screen and (max-width: 800px) {
     body {
         background-size: 300px;
     }
     .container {
         padding: 60px;
+        width: 280px;
     }
 }
-
 
 
 /* ------------ header ------------ */
