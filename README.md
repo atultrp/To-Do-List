@@ -5,7 +5,7 @@ This webpage is used to create To-Do list for your day in which you can write wh
 
 ## 📃️ Documentation
 
-This website template is simply made by using
+This webpage is simply made by using
 * [HTML](https://www.w3schools.com/html/html_intro.asp)
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [Bootstrap](https://getbootstrap.com/)
