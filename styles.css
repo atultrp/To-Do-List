@@ -17,6 +17,7 @@ body {
     padding: 30px;
     width: 380px;
     margin: 0 auto;
+    object-fit: cover;
 }
 
 @media screen and (max-width: 800px) {
@@ -24,7 +25,9 @@ body {
         background-size: 300px;
     }
     .container {
-        padding: 10px;
+        padding: 20px;
+        display: grid;
+        place-content: center;
     }
 }
 
