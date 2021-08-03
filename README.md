@@ -12,7 +12,7 @@ This webpage is simply made by using
 
 ## 📍️ Demo
 
-Website link : [Bootstrap Website Template](https://atultrp.github.io/To-Do-List/)
+Website link : [To-Do List](https://atultrp.github.io/To-Do-List/)
 ## 😯️ Features
 
 - Light mode toggle
